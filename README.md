@@ -1,2 +1,5 @@
 # Calculator
-Designed and developed a responsive calculator using HTML, CSS, and JavaScript with support for basic arithmetic operations and a clean user interface.
+A simple and responsive Calculator built using HTML, CSS, and JavaScript. This web-based calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## *Live View*
+*LINK :* https://htmlpreview.github.io/?https://github.com/sahilsarwar222/Calculator/blob/main/cal.html
